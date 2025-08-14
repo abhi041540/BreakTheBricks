@@ -16,7 +16,7 @@
 
 ## 🖼️ Gameplay Preview
 
-![Game Window](v1.png)
+![Game Window](assets/v1.png)
 
 > *Screenshot of the main game window showing paddle, ball, and bricks in action.*
 
